@@ -2,3 +2,7 @@
 
 I'm practicing writing to my file!
 This is for DevOps bootcamp day1 - lab2!
+
+***********
+
+I'm adding extra stuff here
